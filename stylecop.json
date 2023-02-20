@@ -1,0 +1,19 @@
+﻿{
+  "PdPack": [
+    "####################",
+    "# v2022-12-25",
+    "####################"
+  ],
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "puertaDigital.com",
+      "copyrightText": "Copyright (c) {publishDate} {companyName}",
+      "variables": {
+        "publishDate": "2017"
+      },
+      "xmlHeader" : false,
+      "documentationCulture": "en-US"
+    }
+  }
+}
