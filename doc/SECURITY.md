@@ -1,0 +1,1 @@
+SECURITY describes your project's security policies, including a list of versions that are currently being maintained with security updates. It also gives instructions on how your users can submit a report of a vulnerability. Fore more details, check the following link.

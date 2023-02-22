@@ -1,0 +1,1 @@
+Is a file that lists people who are significant authors of the project, such as the people who are legally related to the work.
