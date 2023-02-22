@@ -43,10 +43,10 @@ test Folder: Unit tests, integration tests… go here.
 This repository contains defaults for:
 
 - Issue templates
-  - [`ISSUE_TEMPLATE/bug_report.md`][doc/bug_report]
-  - [`ISSUE_TEMPLATE/feature_request.md`][doc/feature_request]
+  - [`ISSUE_TEMPLATE/bug_report.md`][doc/ISSUE_TEMPLATE/bug_report]
+  - [`ISSUE_TEMPLATE/feature_request.md`][doc/ISSUE_TEMPLATE/feature_request]
 - Pull request template
-  - [`PULL_REQUEST_TEMPLATE.md`][doc/pull_request]
+  - [`PULL_REQUEST_TEMPLATE.md`][doc/PULL_REQUEST_TEMPLATE.md]
 - Code of Conduct
   - [`CODE_OF_CONDUCT.md`](doc/CODE_OF_CONDUCT.md)
 - Contribution guidelines
