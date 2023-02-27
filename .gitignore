@@ -1,5 +1,6 @@
 _UpgradeReport_Files/
-*.Cache
+*.[Cc]ache
+*.config
 *.log
 *.obj
 *.pdb
@@ -16,10 +17,12 @@ _UpgradeReport_Files/
 $RECYCLE.BIN/
 App_Data*/
 app.publish/
+appsettings.*json
 Backup*/
 [Bb]in/
 [Bb]uild[Ll]og.*
 build/
+clientsettings.*json
 [Dd]ebug/
 Desktop.ini
 ehthumbs.db
