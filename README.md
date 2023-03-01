@@ -39,6 +39,7 @@ Default templates and guidelines for puertaDigital.com repositories on GitHub.
 - **doc/FUNDING.yml** File: Is a file to raise funding for or support your project.
 - **doc/ISSUE_TEMPLATE** Directory: When you add an issue template to your repository, project contributors will automatically see the template’s contents in the issue body. Templates customize and standardize the information you’d like included when contributors open issues. To add multiple issue templates to a repository create an ISSUE_TEMPLATE/ directory in your project root. Within that ISSUE_TEMPLATE/ directory you can create as many issue templates as you need, for example ISSUE_TEMPLATE/bugs.md. This list contains multiple templates for issues and pull requests.
 - **doc/PULL_REQUEST_TEMPLATE.md** File: When you add a PULL_REQUEST_TEMPLATE file to your repository, project contributors will automatically see the template's contents in the pull request body. Templates customize and standardize the information you'd like included when contributors create pull requests. You can create a PULL_REQUEST_TEMPLATE/ subdirectory in any of the supported folders to contain multiple pull request templates.
+- **doc/DOTNETPROJ_PACKAGE.md** File: Detail of the attributes necessary to configure a package (NUGET) to publish.
 
 ## Overview
 
