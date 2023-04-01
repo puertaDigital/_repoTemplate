@@ -1,8 +1,3 @@
-####################
-# v2022-11-19
-# Pack: Directory.Builder.props; stylecop.json; .editorconfig
-####################
-
 root = true
 
 # All files
