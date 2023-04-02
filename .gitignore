@@ -27,7 +27,6 @@ Backup*/
 clientsettings.*json
 [Dd]ebug/
 Desktop.ini
-dist/*
 ehthumbs.db
 [Oo]bj/
 [Rr]elease/
