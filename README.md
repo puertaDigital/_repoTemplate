@@ -8,6 +8,7 @@ Default templates and guidelines for puertaDigital.com repositories on GitHub.
 - **test**: Unit tests, integration tests… go here.
 - **.config**: It should local configuration related to setup on local machine.
 - **build**: This folder should contain all scripts related to build process (PowerShell, Docker compose…).
+- **bin**: This folder should contain all binaries (compiled code) of the project. It should be ignored by git.
 - **dep** Folder: This is the directory where all your dependencies should be stored.
 - **doc** Folder: The documentation general of project.
 - **res** Folder: For all static resources in your project. For example, images.
