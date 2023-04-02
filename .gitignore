@@ -21,7 +21,6 @@ appsettings.*json
 Backup*/
 [Bb]in/
 [Bb]uild[Ll]og.*
-build/
 clientsettings.*json
 [Dd]ebug/
 Desktop.ini
