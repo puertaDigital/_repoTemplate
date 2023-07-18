@@ -17,8 +17,7 @@ Fixes #[issue number] by @[issue author]
 
 ## Checklist
 <!-- Replace  the [ ] with [x] to check the boxes. --> 
-- [ ] My pull request has a descriptive title (not a vague title like `Update
-  index.md`).
+- [ ] My pull request has a descriptive title.
 - [ ] My pull request targets the *default* branch of the repository (`main` or `master`).
 - [ ] My commit messages follow [best practices][best_practices].
 - [ ] My code follows the established code style of the repository.
