@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
   "settings": {
     "documentationRules": {
-      "copyrightText": "Copyright (c) puertaDigital. All rights reserved.",
+      "copyrightText": "Copyright (c) puertaDigital.",
       "xmlHeader" : false,
       "documentationCulture": "en-US"
     },
