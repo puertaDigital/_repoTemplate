@@ -370,6 +370,10 @@ dotnet_diagnostic.SA1308.severity = none
 dotnet_diagnostic.SA1309.severity = none
 # SA1101: Prefix local calls with this
 dotnet_diagnostic.SA1101.severity = none
+# SA1600: Elements should be documented
+dotnet_diagnostic.SA1600.severity = none
+# SA1602: Enumeration items should be documented
+dotnet_diagnostic.SA1602.severity = none
 # SA1633: File Must Have Header
 dotnet_diagnostic.SA1633.severity = silent
 
